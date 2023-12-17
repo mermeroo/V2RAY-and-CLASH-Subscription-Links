@@ -1,4 +1,4 @@
-# CLASH-V2RAY-Subscriptions-Links
+# CLASH-V2RAY-Subscription-Links
 
 Collect Lots of Clash & v2ray Subscription Links from GitHub & Public Sources
 
