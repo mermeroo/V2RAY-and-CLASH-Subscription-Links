@@ -10,8 +10,6 @@ Collect Lots of Clash & V2ray Subscription Links from GitHub & Public Sources
      تعداد زیادی لینک اشتراک   Clash و V2ray که از GitHub و منابع عمومی دیگر جمع آوری شده
 
 
- 
-![IMG_3512](https://github.com/mermeroo/V2RAY-and-CLASH-Subscription-Links/assets/131429982/93d18070-a40e-496a-bf2c-7cc12cab9f91)
 
 
 ![IMG_3513](https://github.com/mermeroo/V2RAY-and-CLASH-Subscription-Links/assets/131429982/6aea0294-2bbc-4948-99a3-c0e9bf395e22)
