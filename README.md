@@ -1,7 +1,6 @@
 # CLASH-V2RAY-Subscription-Links
 
-
-Collect Lots of Clash & V2ray & Base64 Subscription Links from GitHub & Public Sources  
+Lots of Clash and V2ray subscription links collected from GitHub and other public sources
 
 *   从 GitHub 和公共资源收集大量 Clash 和 V2ray 订阅链接
 
