@@ -1,5 +1,3 @@
-subpool2
-
 #
 
 https://raw.githubusercontent.com/mermeroo/Clash-V2ray/main/v2ray
@@ -118,6 +116,7 @@ https://nodefree.org/dy/2023/08/20230806.yaml
 https://clashnode.com/wp-content/uploads/2023/08/20230806.yaml
 https://gitlab.com/univstar1/v2ray/-/raw/main/data/clash/general.yaml
 https://sub.pmsub.me/clash.yaml
+
 
 #       V2RAY
 
@@ -323,7 +322,6 @@ https://freefq.com
 https://free.datiya.com
 https://free-ss.site
 https://proxypool.link
-
 
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/Barabama/FreeNodes/master/nodes/merged.txt
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/Barabama/FreeNodes/master/nodes/nodefree.txt
