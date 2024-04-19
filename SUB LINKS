@@ -447,6 +447,7 @@ https://anaer.github.io/Sub/clash.yaml
 https://0xerfan.github.io/v2ray/
 https://9527521.xyz/pubconfig/YCw0l6R3PoDbGFq5
 https://fetchjiedian.feisu360.xyz/clash/proxies
+http://47.94.205.252:8080/V2Cloud/getVmess
 http://150.230.195.209:12580/clash/proxies
 http://174.137.58.32:12580/clash/proxies
 http://175.178.182.178:12580/clash/proxies
@@ -457,14 +458,12 @@ haohaoxiong.myqnapcloud.com:12580/clash/proxies
 carterzheng.synology.me:8008/clash/proxies
 brovee.myds.me:12580/clash/proxies
 rot.9o9.top:880/clash/proxies
-http://47.94.205.252:8080/V2Cloud/getVmess
 150.230.251.224:12580/clash/proxies
 104.168.244.47:12580/clash/proxies
 123.57.192.169:7777/clash/proxies
 146.56.97.77:12580/clash/proxies
 
 
-#
 #
 #
 #           mermeroo   
